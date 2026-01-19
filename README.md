@@ -58,7 +58,7 @@ Steps
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/altar-thirst.git
+git clone https://github.com/Ahmed-Ali-947/Altar-Thirst.git
 Open the project in Unity
 
 Open the MainScene in Assets/Scenes/
@@ -83,7 +83,7 @@ Assets/
 🎨 Assets & Credits
 Tutorial: Based on Blackthornprod's game development tutorials
 
-Programming: Original implementation by [Your Name]
+Programming: Original implementation by Ahmed-Ali-947
 
 Art Assets: Custom sprites and effects created for this project
 
@@ -122,9 +122,9 @@ Unity Technologies for the game engine
 The game development community for inspiration and support
 
 📧 Contact
-[Your Name/Username] - [Your Email or Social Media]
+Ahmed-Ali-947 - ahmedali947lh@gmail.com
 
-Project Link: https://github.com/yourusername/altar-thirst
+Project Link: https://github.com/Ahmed-Ali-947/Altar-Thirst
 
 ⭐ If you enjoy this game, please give it a star on GitHub!
 
