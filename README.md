@@ -65,21 +65,6 @@ Open the MainScene in Assets/Scenes/
 
 Press Play to start the game
 
-🏗️ Project Structure
-text
-Assets/
-├── Scripts/
-│   ├── GameManager.cs          # Main game controller
-│   ├── PlayerResources.cs      # Resource management
-│   ├── AltarController.cs      # Altar sacrifice mechanics
-│   ├── EnemySpawner.cs         # Enemy wave spawning
-│   ├── VillagerAI.cs           # Villager behavior
-│   ├── TownHouse.cs            # Villager production
-│   └── ResourceCollector.cs    # Resource gathering
-├── Prefabs/                    # Game objects
-├── Scenes/                     # Game scenes
-├── Art/                        # Sprites and visuals
-└── Audio/                      # Sound effects and music
 🎨 Assets & Credits
 Tutorial: Based on Blackthornprod's game development tutorials
 
